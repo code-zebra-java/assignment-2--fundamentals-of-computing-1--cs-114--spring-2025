@@ -1,7 +1,7 @@
 #filename = CountFlips
-filename = PrintVowelsAndNonVowels
+#filename = PrintVowelsAndNonVowels
 #filename = TheTwelveDaysOfChristmas
-#filename = OneHundredBottlesOfBeer
+filename = OneHundredBottlesOfBeer
 
 all: compile run
 
