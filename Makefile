@@ -1,5 +1,5 @@
-filename = CountFlips
-#filename = PrintVowelsAndNonVowels
+#filename = CountFlips
+filename = PrintVowelsAndNonVowels
 #filename = TheTwelveDaysOfChristmas
 #filename = OneHundredBottlesOfBeer
 
